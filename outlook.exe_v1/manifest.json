@@ -1,0 +1,10 @@
+{
+    "version": 6.1,
+    "description": "Test script",
+    "process": "explorer.exe",
+    "scripts" : [
+            "underscore.js",
+            "q.js",
+            "app.js"]
+
+}

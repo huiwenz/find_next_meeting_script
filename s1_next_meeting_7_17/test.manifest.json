@@ -1,0 +1,9 @@
+{
+    "scripts": [
+        
+        "qunit-1.18.0.js",
+        "test.js"
+
+    ]
+
+}
